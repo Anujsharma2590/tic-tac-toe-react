@@ -17,9 +17,7 @@ In the project directory, I have made a game called tic-tac-toe
 
 <hr/>
 
-## Sneak Peak
-#### Landing Page
-<a href="https://tictaktoe-anuj.netlify.app//">tic-tac-toe</a>
+### Live Link : https://tictaktoe-anuj.netlify.app/
 
 #### Tesla Pages
 
@@ -30,6 +28,12 @@ In the project directory, I have made a game called tic-tac-toe
 
 
 ## Installation and Setup Instructions
+
+## Install basic Software:
+* Install NodeJS
+* Install VS Code
+* Install Git
+
 Clone down this repository using this <a href="https://github.com/Anujsharma2590/tic-tac-toe-react">link</a>
 
 You will need node and npm installed globally on your machine. 
