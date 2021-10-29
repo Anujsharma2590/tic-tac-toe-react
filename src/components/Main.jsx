@@ -27,6 +27,7 @@ function Main() {
       clearGame();
       alert(`${winner} won the Game !`);
     }
+    // eslint-disable-next-line
   }, [gameState]);
 
   const checkWinner = () => {
